@@ -51,12 +51,11 @@ Call to RapidMiner to let RapidMiner classify all files in \machine_learning\dat
 Initially you will find the following examples in the "in"-directory
 
 <table>
-	<th><td>File  </td> <td>Correct label</td></th>
+	<tr><th>File  </th> <th>Correct label</th></tr>
 	<tr><td>103124</td> <td>rec.motorcycles</td></tr>
 	<tr><td> 53300</td> <td>talk.politics.guns</td></tr>
 	<tr><td> 59872</td> <td>sci.space</td></tr>
 	<tr><td>  9140</td> <td>comp.os.ms-windows.misc</td></tr>
-
 </table>
 
 
