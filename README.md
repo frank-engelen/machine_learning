@@ -48,12 +48,16 @@ In the "src"-subdirectory you will find two Java-Classes:
 ### MainClassifier.java                 
 Call to RapidMiner to let RapidMiner classify all files in \machine_learning\data\03-20_newsgroup_java_in.
 
-Initially you will find the following examples in the "in"-directory	
-Path: C:\machine_learning\data\03-20_newsgroup_java_in\103124:    Real Label:rec.motorcycles
-Path: C:\machine_learning\data\03-20_newsgroup_java_in\53300:     Real Label:talk.politics.guns
-Path: C:\machine_learning\data\03-20_newsgroup_java_in\59872:     Real Label:sci.space
-Path: C:\machine_learning\data\03-20_newsgroup_java_in\9140:      Real Label:comp.os.ms-windows.misc
+Initially you will find the following examples in the "in"-directory
 
+<table>
+	<th><td>File  </td> <td>Correct label</td></th>
+	<tr><td>103124</td> <td>rec.motorcycles</td></tr>
+	<tr><td> 53300</td> <td>talk.politics.guns</td></tr>
+	<tr><td> 59872</td> <td>sci.space</td></tr>
+	<tr><td>  9140</td> <td>comp.os.ms-windows.misc</td></tr>
+
+</table>
 
 
 ### ClearMetadataFromFiles
