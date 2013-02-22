@@ -1,0 +1,9 @@
+From: senderow@diva.Berkeley.EDU (Dan Senderowicz)
+Subject: convertion program to gremlin
+Lines: 5
+Keywords: plot2grn? tek2grn? fig2grn? pic2grn?
+I was wondering if somebody knows of a PD program for converting
+any graphic formats such as fig, pic, unixplot, tek, etc. to
+gremlin. Thanks,
+
+Dan.

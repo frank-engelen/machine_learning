@@ -1,0 +1,9 @@
+From: chen@nuclear.med.bcm.tmc.edu (ChenLin)
+Subject: Re: Can I get more than 640 x 480 on 13" monitor?
+Lines: 5
+Keywords: 13" monitor, 8*24 resolution
+
+Try MaxAppleZoom ( a shareware init ) if your monitor is not driven by internal
+video.
+
+chen
